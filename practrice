@@ -1,0 +1,23 @@
+<html lang = "en">
+    <head>
+        <title>
+            this is a test
+        </title>
+    </head>
+    <body>
+        <h1>
+            this is a header
+            <div id="box">
+                <!--empty box-->
+            </div>
+        </h1>
+        <h2>
+        <button id="ClickMe" onclick="window.alert('Good job you just nuked an orphan')"
+        </h2>
+        <script src="script.js">
+        </script>
+
+    </body>
+
+
+</html>
