@@ -12,3 +12,7 @@ let header = document.getElementsByTagName("hi")[0]; //get first element
 header.onmouseover = function() {
 header.computedStyleMap.color ='red'
 }
+
+header.onmouseover = function() {
+    header.computedStyleMap.color ='red'
+    }
